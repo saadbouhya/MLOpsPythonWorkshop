@@ -13,9 +13,9 @@ env:
   AZURE_RESOURCE_GROUP_NAME: "azure-ml-yolw"
   AZURE_LOCATION: "northeurope"
   AZURE_ML_WORKSPACE_NAME: "cats-dogs-yolw"
-  AZURE_WEBAPP_NAME: "cats-dogs-yolw"
+  AZURE_WEBAPP_NAME: "cats-dogs-saad"
   DELETE_WEBAPP: "false"
-  DOCKER_IMAGE_NAME: "guillaumechervetlunique/mlopspython"
+  DOCKER_IMAGE_NAME: "saadbouhya/mlopspython"
 
 permissions:
   id-token: write
